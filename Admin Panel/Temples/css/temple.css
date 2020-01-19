@@ -1,0 +1,82 @@
+﻿body 
+{
+    background-color:Orange;
+    
+}
+#main
+{
+    height:1100px;
+    width:1300px;
+}
+#main1
+{
+    height:500px;
+    width:1300px;
+}
+#main2
+{
+    height:500px;
+    width:1300px;
+}
+#image
+{
+    float:left;
+    height:500px;
+    width:583px;
+    padding:10px;
+   
+}
+#details
+{
+    float:right;
+    height:500px;
+    width:600px;
+    background-color:White;
+    margin-right: 0px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+}
+#map
+{
+    float:left;
+    height:500px;
+    width:600px;
+        margin-left: 30px;
+}
+#related
+{
+    height:500px;
+    width:600px;
+    border-style:solid;
+    border-width:5px;
+    border-color:Black;
+    float:right;
+    margin-top:30px;
+}
+#nav
+{
+    width:597px;
+    
+    height: 70px;
+}
+#TempleImage
+{
+    padding:30px;
+    margin:20px;
+}
+.index-2 .block-1 #touch_gallery .grid_4 {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 33px;
+}
+.index-2 .block-1 .img_block {
+  margin-bottom: 0 !important;
+}
+#Button1
+{
+    background-image:url(http://localhost:20272/WebSite5/Temples/img/arrows (2).jpg);
+}
+#Button2
+{
+    background-image:url(http://localhost:20272/WebSite5/Temples/img/arrows (3).jpg);
+}

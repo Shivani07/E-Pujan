@@ -1,0 +1,44 @@
+﻿body {
+}
+#main
+{
+    width:1400px;
+    height:600px;
+    margin: 0 auto;
+    background-color:brown;
+    
+}
+#logo
+{
+    width:1300px;
+    height:100px;
+    background-color:Blue;
+}
+#slider
+{
+    border:250px;
+    width:1200px;
+    height:400px;
+    background-color:Lime;
+}
+#right
+{
+    float:right;
+    width:150px;
+    height:400px;
+    background-color:Black;
+}
+#left
+{
+    float:left;
+    background-color:Aqua;
+    width:150px;
+    height:400px;
+}
+#center
+{
+    float:left;
+    background-color:Red;
+    width:150px;
+    height:400px;
+}

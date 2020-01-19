@@ -1,0 +1,109 @@
+﻿body 
+{ 
+    background-color:Orange;
+ position:fixed;
+    
+    width: 1373px;
+    height: 667px;
+}
+*
+{
+    padding:0px;
+    margin:0px;
+    width: 93px;
+}
+#home
+{
+    width:1373px;
+    height:650px;
+    background-color:lime;
+    background-image:url(http://localhost:61651/WebSite3/PROJECT/11.jpg);
+    
+}
+#home1
+{
+    width:1370px;
+    height:100px;
+    background-color:transparent;
+    overflow:hidden;
+    max-height:100%;
+    max-width:100%;
+    padding-top:0pt;
+}
+#home2
+{
+     width:1370px;
+    height:550px;
+    background-color:transparent;
+   
+    max-height:100%;
+    max-width:200%;
+    background-repeat:no-repeat;
+ }
+ #create
+ {
+      width:463px;
+     height :500px;
+     background-color:transparent;
+     float:left;
+     margin-left:50px;
+     margin-top:20px;
+     border-color:Black;
+     border-width:thick;
+     
+ }
+#nme
+{
+    text-align:center;
+    font-family:Cooper Black;
+    font-size:45pt;
+    color:black;
+    font-weight:bolder;
+    position:absolute;
+    left:2%;
+    top: 7px;
+    height: 90px;
+}
+#nme2
+{
+    font-family:Cooper Black;
+    font-size:30pt;
+    color:black;
+    font-weight:bolder;
+    text-align:left;
+}
+#log
+{
+    float:right;
+    width:520px;
+    
+    font-weight:bold;
+    font-size:large;
+    margin-right:20px;
+}
+#new
+{
+    font-family:Baskerville Old Face;
+    font-weight:bolder;
+    font-size:15pt;
+    color:Red;
+     width:600px;
+     height :447px;
+    margin-left: 20px;
+    
+     
+}
+#i1
+{
+    width:300px;
+    height:300px;
+    overflow:hidden;
+    position:relative;
+}
+Image1
+{
+  
+    display:block;
+    position:absolute;
+    
+}

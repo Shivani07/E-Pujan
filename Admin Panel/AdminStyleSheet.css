@@ -1,0 +1,26 @@
+﻿body {    background-color: #FFFFFF;
+}
+*
+{
+    padding:0px;
+    margin:0px;
+    font-size: medium;
+    font-family: Aharoni;
+    background-color: #FFFFFF;
+}
+#logo
+{
+    width:1368px;
+    height:50px;
+    background-color:Blue;
+}
+#menu
+{
+    width:1367px;
+    height:50px;
+    background-color:Silver;
+}
+#menutab
+{
+    width:400px;
+}
